@@ -17,6 +17,7 @@ When playing with *areas* of *CQB* terrain as part of a larger table (for exampl
 Conventionally, *CQB* battles have a designated **Defender** (most often the owner of the ship/installation/mine/etc where the battle is taking place) and a designated **Attacker**. If there is no logical attacker or defender in your narrative scenario, they are both considered **Combatants**.
 
 **Attacker** : The Attacker should use the *Forlorn Hope* detachment, described below:
+
 * HQ: 1-2
 * Elites: 1-3
 * Troops: 0-3
@@ -34,6 +35,7 @@ Conventionally, *CQB* battles have a designated **Defender** (most often the own
 If points limits allow for more than one detachment, any force may use either the *Forlorn Hope* or *Patrol* detachments for additional units.
 
 In addition to these detachments, there are additional restrictions for *CQB* forces beyond those found in their Codex:
+
 * No unit may be taken as a Dedicated Transport
 * No unit may have a starting size greater than 15 models
 * Units without the *Vehicle* keyword cannot be more than 4" wide
@@ -48,6 +50,7 @@ Warlords for each force should be selected as normal as detailed in the main War
 Interacting with terrain is, by necessity, a larger component of *CQB* games than standard games of Warhammer 40K. As a result, there are additional special rules for terrain and environmental effects taking place in unpredictable, often unstable, environments.
 
 **Airlocks and Doors**: Passages within *CQB* battlefields can be sealed off using reinforced doors, airlocks, force fields or other controllable barriers. These barriers have three states: *Locked*, *Unlocked* and *Restricted Access*.
+
 * **Locked**: A locked barrier cannot be passed, save by destroying either the barrier or its locking mechanism. Once a locked barrier has been destroyed, remove it from play - it is no longer functional.
 * **Unlocked**: A barrier may be opened or closed by the first unit that comes within 1" of the barrier in each turn. This unit may move through the door freely (and optionally close it behind them). A barrier may only be moved through this way once per turn - any additional units wishing to move through an *Unlocked* barrier that has been closed must destroy it.
 * **Restricted Access**: A restricted access barrier is treated as *Unlocked* by one side (typically, but not always, the *Defender*), and *Locked* by the other.
