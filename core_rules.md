@@ -22,6 +22,7 @@ Conventionally, *CQB* battles have a designated **Defender** (most often the own
 * Troops: 0-3
 * Fast Attack: 0-2
 * Heavy Support: 0-1
+* Flyer: 0-2
 * Command Benefit: None
 
 *TODO: Add figure*
@@ -36,7 +37,7 @@ In addition to these detachments, there are additional restrictions for *CQB* fo
 * No unit may be taken as a Dedicated Transport
 * No unit may have a starting size greater than 15 models
 * Units without the *Vehicle* keyword cannot be more than 4" wide
-* Units with both the *Flyer* battlefield role may not be taken
+* Units with both the *Flyer* battlefield role may not be taken, unless they have Hover Mode. If taken as such, they may not leave Hover Mode.
 * No unit requiring more than a 60mm round base may be chosen
 
 ## Warlords ##
@@ -51,7 +52,32 @@ Interacting with terrain is, by necessity, a larger component of *CQB* games tha
 * **Unlocked**: A barrier may be opened or closed by the first unit that comes within 1" of the barrier in each turn. This unit may move through the door freely (and optionally close it behind them). A barrier may only be moved through this way once per turn - any additional units wishing to move through an *Unlocked* barrier that has been closed must destroy it.
 * **Restricted Access**: A restricted access barrier is treated as *Unlocked* by one side (typically, but not always, the *Defender*), and *Locked* by the other.
 
-**Destroying Doors**: 
+**Destroying Doors**: Barriers may be destroyed - by forcing them open, puncturing holes big enough to move through, disabling their locking mechanisms or force field emitters, etc. They have however been *designed* to withstand some degree of abuse. When attempting to destroy a barrier, unless otherwise noted in the scenario rules, treat them as having Toughness 4 and 1 Wounds and a 2+ armor save.
+
+*Note*: This is calibrated to give a meltagun firing at half range the same chance of destroying the door as in 7th edition (~ 83%). It does seem a little low at the moment, and can very easily be stripped by volume of fire in a way that you couldn't do in 7th Edition. The armor may *help* with that, but there's no way to get all the way back to "Small arms can't hurt this, bring up the demo charges" given the 8th Edition ruleset. More work may be needed here - possibly averaging the results of several iconic "bulkhead breaking weapons"
+
+**Dangerous Ground**: The environments in CQB are inherently unstable and dangerous, with wreckage, improvised barriers, unstable footing and other hazards. As such, *CQB* areas have special rules effecting movement within them. Additionally, space is often constrained, having choke points, narrow passages, etc. Only a model that can physically fit within the space of the tabletop can move within it - if your base or model is too wide to fit through a corridor, it is impassable.
+
+Because it is unlikely, with the density of ship bulkheads, cavern walls, etc. that there is *also* room for terrain for a unit to be completely within, units are considered in cover when the entire unit is *behind* a piece of terrain - for example, sheltering behind a sandbag wall, or a heap of rubble. There is some room for ambiguity here, so use sound judgement and consult with your opponents - it is often useful to state the intention for a unit to be fully behind terrain and ask your opponent to confirm this.
+
+Light features, such as debris, chain-link fences, grates, metal barrels and ammunition boxes should be considered atmospheric scenery, which confers no benefit and does not obstruct movement, etc. Improvised barricades, sandbag emplacements, heavy machinery, etc. confer standard benefit of adding 1 to a unit's saving throws. Particularly heavy fortifications, such as bunkers, armored fire ports, guard stations, etc. add 2 to a unit's saving throws. Special rules for firing into - or taking cover behind - particularly hazardous and volatile terrain features such as promethium pipes, plasma reactors, xenos containment cells, etc. may add a layer of depth to the game, and should be discussed beforehand.
+
+** No Indirect Fire**
+Low ceilings, exposed girders and pipes, etc. mean firing weapons in high arcs is effectively impossible. Any weapon that has as part of its rules language similar to "This weapon can target units not visible to the bearer" cannot be fired. Use common sense when applying this rule, as this may not be applicable in all cases. Exceptions to this rule are Eldar Support Weapons armed with D-cannons, and Death Korps of Krieg Mole launchers.
+
+**Terrain Effects by Keyword**
+
+* Units with the *Fly*, *Artillery* or *Cavalry* keywords must roll a d6 when passing through or over any terrain that provides a cover bonus. On a roll of 6, this unit takes a Mortal Wound, regardless of any special rules they may have regarding movement. If they advance, they must take this test regardless of the terrain they pass through. This only applies to units with the *Jump Pack* or *Monster* keywords if they move more than 6".
+* All other units with the *Vehicle* keyword must roll a d6 when moving within *CQB* areas in their entirety. On a roll of 6, the unit takes a Mortal Wound, regardless of any special rules they have regarding movement.
+* The previous rule does not apply to units with the *Vehicle* keyword that are optimized for *CQB* environments. Treat these instead as if they used the rules for units with *Fly*, *Artillery* or *Cavalry*. These units were formerly known as "Walkers" and include Space Marine Dreadnoughts, Eldar War Walkers, Astra Militarum Sentinels, etc. A full list is available in the *Exemptions* document.
+
+*TODO: Make the Exemptions document*
+
+## Other Special Rules ##
+**Reserves and Alternate Deployments**: Units arriving from reserve via standard deployment can only enter via the entry and exit points specified before the game begins. Units with rules that allow them to be repositioned after deployment, such as the Astra Militarum Scout Sentinel's "Scout Vehicle" rule or which alter the rules for where a model may be placed *during deployment* such as the Space Marine Scout's "Concealed Positions" work as normal.
+
+Any alternate deployment mechanism that involves a unit being deployed somewhere other than the battlefield, such as the Eldar Ranger's 'Appear Unbidden' rule or Space Marine Reiver's "Grav-chutes", carry considerably higher risk. It is possible to collide with walls and other terrain, find your intended positions obstructed, or at the very worse, teleport directly into a solid surface. If these units deploy within 1" of a wall, barrier, or other terrain feature, the unit automatically takes d3 Mortal Wounds, to represent mishaps during deployment or members of the unit unable to enter the combat area due to obstructions.
+
 
 
 

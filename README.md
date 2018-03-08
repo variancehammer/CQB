@@ -1,10 +1,9 @@
 # CQB Draft Rules #
-<center>
+
 A Variance Hammer Project
 
 
 ![alt text](https://raw.githubusercontent.com/variancehammer/CQB/master/images/vhlogo.jpg)
-</center>
 
 # Contents #
 
@@ -35,6 +34,10 @@ In addition, there is an important note on the design philosophy of *CQB*: **The
 This is a collection of notable deviations from either the original *Zone Mortalis* rules, or the main rulebook for Warhammer 40K:
 
 **Zone Mortalis**: 
+* Several rules, such as Difficult Terrain and the rules for wrecked vehicles have been removed as they no longer exist in the paradigm of 8th edition.
+* Removed most mentions of Walkers, as they don't exist as a discrete category anymore - this makes them *less* useful in *CQB*, which is a problem.
+* Deepstrike Mishap no longer exists as a concept - the new rules reflect an increased risk of losses due to these types of deployments.
+* Similarly, "Falling Back" now means something entirely different, so the rules for the Morale phase have been entirely rewritten.
 
 **Main Rulebook**:
 * The nature of *CQB* battles necessitates a departure from the "in terrain" paradigm of 8th Edition back to the 7th Edition paradigm of "behind terrain". Editing the terrain rules is probably the largest wholesale change.
