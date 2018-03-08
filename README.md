@@ -23,6 +23,8 @@ The goal behind *CQB* is to build a set of modular rules to support these kind o
 * **Optional Rules** : These are rules inspired by other products, sources, etc. that can be added to enhance the feel of the game.
 * **Expansions** : There are larger sets of optional rules expressly designed to add a particular type of "flavor" to the game - for example, rules for boarding actions, rules for research stations, etc.
 
+In addition, there is an important note on the design philosophy of *CQB*: **These rules are not balanced**. They are intended for a particular form of narrative game, and as such may favor particular units, armies or army builds.
+
 # Disclaimer
 
 This web site is completely unofficial and in no way endorsed by Games Workshop Limited.
