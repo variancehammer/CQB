@@ -1,5 +1,9 @@
 # CQB Draft Rules #
 
+A Variance Hammer Project
+![alt text](https://raw.githubusercontent.com/variancehammer/CQB/master/images/vhlogo.jpg)
+
+
 # Contents #
 
 * in progress*
