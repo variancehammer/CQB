@@ -38,9 +38,13 @@ This is a collection of notable deviations from either the original *Zone Mortal
 * Removed most mentions of Walkers, as they don't exist as a discrete category anymore - this makes them *less* useful in *CQB*, which is a problem.
 * Deepstrike Mishap no longer exists as a concept - the new rules reflect an increased risk of losses due to these types of deployments.
 * Similarly, "Falling Back" now means something entirely different, so the rules for the Morale phase have been entirely rewritten.
+* Template weapons no longer exist, and so that section has been re-written. I've tried to account for flamers, frag cannons, frag grenades, etc. But there's no real way at the moment to distinguish what *used* to be a Blast or Template weapon inherently. I think this covers the majority of use cases however.
 
 **Main Rulebook**:
 * The nature of *CQB* battles necessitates a departure from the "in terrain" paradigm of 8th Edition back to the 7th Edition paradigm of "behind terrain". Editing the terrain rules is probably the largest wholesale change.
+
+# Current Version
+0.1
 
 # Disclaimer
 

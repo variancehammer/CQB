@@ -62,7 +62,7 @@ Because it is unlikely, with the density of ship bulkheads, cavern walls, etc. t
 
 Light features, such as debris, chain-link fences, grates, metal barrels and ammunition boxes should be considered atmospheric scenery, which confers no benefit and does not obstruct movement, etc. Improvised barricades, sandbag emplacements, heavy machinery, etc. confer standard benefit of adding 1 to a unit's saving throws. Particularly heavy fortifications, such as bunkers, armored fire ports, guard stations, etc. add 2 to a unit's saving throws. Special rules for firing into - or taking cover behind - particularly hazardous and volatile terrain features such as promethium pipes, plasma reactors, xenos containment cells, etc. may add a layer of depth to the game, and should be discussed beforehand.
 
-** No Indirect Fire**
+**No Indirect Fire**
 Low ceilings, exposed girders and pipes, etc. mean firing weapons in high arcs is effectively impossible. Any weapon that has as part of its rules language similar to "This weapon can target units not visible to the bearer" cannot be fired. Use common sense when applying this rule, as this may not be applicable in all cases. Exceptions to this rule are Eldar Support Weapons armed with D-cannons, and Death Korps of Krieg Mole launchers.
 
 **Terrain Effects by Keyword**
@@ -77,6 +77,13 @@ Low ceilings, exposed girders and pipes, etc. mean firing weapons in high arcs i
 **Reserves and Alternate Deployments**: Units arriving from reserve via standard deployment can only enter via the entry and exit points specified before the game begins. Units with rules that allow them to be repositioned after deployment, such as the Astra Militarum Scout Sentinel's "Scout Vehicle" rule or which alter the rules for where a model may be placed *during deployment* such as the Space Marine Scout's "Concealed Positions" work as normal.
 
 Any alternate deployment mechanism that involves a unit being deployed somewhere other than the battlefield, such as the Eldar Ranger's 'Appear Unbidden' rule or Space Marine Reiver's "Grav-chutes", carry considerably higher risk. It is possible to collide with walls and other terrain, find your intended positions obstructed, or at the very worse, teleport directly into a solid surface. If these units deploy within 1" of a wall, barrier, or other terrain feature, the unit automatically takes d3 Mortal Wounds, to represent mishaps during deployment or members of the unit unable to enter the combat area due to obstructions.
+
+**Halls of Death**: *CQB* environments are conducive to particular types of weapons. Those capable of filling a combined space with shrapnel, or sucking the air out of a room in conflagration are devastatingly effective. Any ranged weapon that has as part of its rules language similar to "This weapon automatically hits its target" may now *also* re-roll failed To Wound rolls. If the weapon already had such an ability, it gains +1 Strength. Ranged weapons with the "Grenade" type that inflict multiple hits also gain this rule.
+
+**No Retreat**: *CQB* games are often desperate struggles where an orderly retreat is much less likely. Retreating units may have their escape routes cut off, they may get lost in the complex environment, or they may genuinely be trapped, the void ship they launched from now a smoldering wreck. Units use their leadership in the Morale phase as normal, however they add 1 to the number of units lost due to a failed Morale roll to reflect the increased likelihood of panicking units becoming combat ineffective.
+
+**Communications Failures**: *CQB* environments are difficult ones to maintain coherent command and control structures in. Units are often extremely limited in what they can see, their communications may be jammed, and they are often forced to rely on the leadership of whatever officer they can find - often a junior one. A unit that is within 1" of a friendly unit that has lost one or more models due to a failed Morale roll itself loses 1 unit, to reflect growing local panic and incomplete information.
+
 
 
 
