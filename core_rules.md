@@ -39,8 +39,19 @@ In addition to these detachments, there are additional restrictions for *CQB* fo
 * Units with both the *Flyer* battlefield role may not be taken
 * No unit requiring more than a 60mm round base may be chosen
 
+## Warlords ##
+Warlords for each force should be selected as normal as detailed in the main Warhammer 40K rulebook. However, Warlord Traits and Artifacts should only be used in games larger than 500 points (XX Power Levels).
 
+## Terrain ##
 
+Interacting with terrain is, by necessity, a larger component of *CQB* games than standard games of Warhammer 40K. As a result, there are additional special rules for terrain and environmental effects taking place in unpredictable, often unstable, environments.
+
+**Airlocks and Doors**: Passages within *CQB* battlefields can be sealed off using reinforced doors, airlocks, force fields or other controllable barriers. These barriers have three states: *Locked*, *Unlocked* and *Restricted Access*.
+* **Locked**: A locked barrier cannot be passed, save by destroying either the barrier or its locking mechanism. Once a locked barrier has been destroyed, remove it from play - it is no longer functional.
+* **Unlocked**: A barrier may be opened or closed by the first unit that comes within 1" of the barrier in each turn. This unit may move through the door freely (and optionally close it behind them). A barrier may only be moved through this way once per turn - any additional units wishing to move through an *Unlocked* barrier that has been closed must destroy it.
+* **Restricted Access**: A restricted access barrier is treated as *Unlocked* by one side (typically, but not always, the *Defender*), and *Locked* by the other.
+
+**Destroying Doors**: 
 
 
 
