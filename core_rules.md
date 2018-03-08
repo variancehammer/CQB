@@ -36,5 +36,14 @@ In addition to these detachments, there are additional restrictions for *CQB* fo
 * No unit may be taken as a Dedicated Transport
 * No unit may have a starting size greater than 15 models
 * Units without the *Vehicle* keyword cannot be more than 4" wide
-* Units with both the *Vehicle* and *Fly* keyword may not be taken at all. **Note: This is not an elegant solution, as it eliminates several appropriate units: Wasp Assault Walkers, Land Speeders, etc. Working on something better.**
+* Units with both the *Flyer* battlefield role may not be taken
 * No unit requiring more than a 60mm round base may be chosen
+
+
+
+
+
+
+
+
+
