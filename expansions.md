@@ -1,3 +1,5 @@
+\pagebreak
+
 # Expansions #
 
 Expansions are special rules that pertain to particular *CQB* environments. For example, while those boarding a void-going starship risk dangerous depressurization, those attacking an Adeptus Mechanicus research station may encounter malfunctioning machinery, or defensive systems that no longer distinguish friend from foe.
@@ -12,3 +14,5 @@ While some of these are derived from the original Zone Mortalis source material,
 ## Toxic Environments ##
 
 ## Mines ##
+
+\pagebreak

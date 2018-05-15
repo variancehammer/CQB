@@ -2,12 +2,10 @@
 
 # Creates a PDF of all CQB Markdown documents and stores them in a dedicated folder
 # Run after every major update
+# Requires pandoc and a LaTeX installation to work properly
 
-pandoc README.md -s -o ./pdfs/README.pdf
-pandoc core_rules.md -s -o ./pdfs/CoreRules.pdf
-pandoc optional_rules.md -s -o ./pdfs/OptionalRules.pdf
-pandoc expansions.md -s -o ./pdfs/Expansions.pdf
-pandoc missions_strats.md -s -o ./pdfs/Missions_and_Strategems.pdf
-pandoc exemptions.md -s -o ./pdfs/Exemptions.pdf
+cat README.md core_rules.md optional_rules.md expansions.md missions_strats.md exemptions.md > cqb.md
+
+pandoc cqb.md -s -o ./pdfs/CQB.pdf
 
 printf "+++ PDF Compilation Complete+++ \n"

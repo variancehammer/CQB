@@ -8,7 +8,10 @@ A Variance Hammer Project
 
 # Contents #
 
-* in progress*
+* Introduction
+* Contributing
+* Guiding Principles
+* Notable Deviations
 
 # Introduction #
 
@@ -23,7 +26,7 @@ I'd welcome additional questions, evidence, and discussion of these answers. The
 
 ## Guiding Principles ##
 
-The goal behind *CQB* is to build a set of modular rules to support these kind of games, and support narrative play. The rules themselves are divided into three categories:
+The goal behind *CQB* is to build a set of modular rules to support these kind of games, and support narrative play. The rules themselves are divided into four categories:
 
 * **Core Rules** : These are as close an adaptation of the original Zone Mortalis rules as possible, with a minimum of creative interpretation. Where this interpretation does happen, some commentary is included for how this was arrived at.
 * **Optional Rules** : These are rules inspired by other products, sources, etc. that can be added to enhance the feel of the game.
@@ -56,3 +59,5 @@ This is a collection of notable deviations from either the original *Zone Mortal
 This web site is completely unofficial and in no way endorsed by Games Workshop Limited.
 
 Adeptus Astartes, Blood Angels, Bloodquest, Cadian, Catachan, the Chaos devices, Cityfight, the Chaos logo, Citadel, Citadel Device, Codex, Daemonhunters, Dark Angels, Dark Eldar, ‘Eavy Metal, Eldar, Eldar symbol devices, Eye of Terror, Fire Warrior, Forge World, Games Workshop, Games Workshop logo, Genestealer, Golden Demon, Gorkamorka, Great Unclean One, Inquisitor, the Inquisitor logo, the Inquisitor device, Inquisitor:Conspiracies, Keeper of Secrets, Khorne, Kroot, Lord of Change, Necron, Nurgle, Ork, Ork skull devices, Sisters of Battle, Slaanesh, Space Hulk, Space Marine, Space Marine chapters, Space Marine chapter logos, Tau, the Tau caste designations, Tyranid, Tyrannid, Tzeentch, Ultramarines, Warhammer, Warhammer 40k Device, White Dwarf, the White Dwarf logo, and all associated marks, names, races, race insignia, characters, vehicles, locations, units, illustrations and images from the Warhammer 40,000 universe are either ®, TM and/or © Copyright Games Workshop Ltd 2000-2018, variably registered in the UK and other countries around the world. Used without permission. No challenge to their status intended. All Rights Reserved to their respective owners.
+
+\pagebreak

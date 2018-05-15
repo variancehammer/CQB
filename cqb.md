@@ -1,4 +1,66 @@
-\pagebreak
+# CQB Draft Rules #
+
+
+A Variance Hammer Project
+
+
+!["Variance Hammer Logo"](https://raw.githubusercontent.com/variancehammer/CQB/master/images/vhlogo.jpg)
+
+# Contents #
+
+* Introduction
+* Contributing
+* Guiding Principles
+* Notable Deviations
+
+# Introduction #
+
+*CQB* is a fan-made expansion for Warhammer 40K 8th Edition, intended to support "Zone Mortalis"-style games, introduced by Forge World. These games feature close quarters fighting in tight, often highly enclosed environments, such as Space Hulks, boarding actions, underground mines and within buildings.
+
+## Contributing ##
+
+I'd welcome additional questions, evidence, and discussion of these answers. There are a number of ways to contribute to this document:
+
+* If you have a GitHub account, feel free issue a pull request adding new content, or file an issue if you have a question or would like to prompt a discussion.
+* If you *don't* have a GitHub account, you can email me at variancehammer@gmail.com or reach me on Twitter @VarianceHammer or Facebook (http://www.facebook.com/variancehammer)
+
+## Guiding Principles ##
+
+The goal behind *CQB* is to build a set of modular rules to support these kind of games, and support narrative play. The rules themselves are divided into four categories:
+
+* **Core Rules** : These are as close an adaptation of the original Zone Mortalis rules as possible, with a minimum of creative interpretation. Where this interpretation does happen, some commentary is included for how this was arrived at.
+* **Optional Rules** : These are rules inspired by other products, sources, etc. that can be added to enhance the feel of the game.
+* **Expansions** : There are larger sets of optional rules expressly designed to add a particular type of "flavor" to the game - for example, rules for boarding actions, rules for research stations, etc.
+* **Missions and Stratagems** : As the name suggests, this is a collection of missions and stratagems suitable for use in *CQB* games.
+
+In addition, there is an important note on the design philosophy of *CQB*: **These rules are not balanced**. They are intended for a particular form of narrative game, and as such may favor particular units, armies or army builds.
+
+## Notable Deviations ##
+This is a collection of notable deviations from either the original *Zone Mortalis* rules, or the main rulebook for Warhammer 40K:
+
+**Zone Mortalis**: 
+
+* Several rules, such as Difficult Terrain and the rules for wrecked vehicles have been removed as they no longer exist in the paradigm of 8th edition.
+* Removed most mentions of Walkers, as they don't exist as a discrete category anymore - this makes them *less* useful in *CQB*, which is a problem. The "Exemptions" document attempts to ammend this by making a sub-list of *CQB*-optimized *Vehicles* that suffer lesser penalties. Note that this list is particularly subjective.
+* Deepstrike Mishap no longer exists as a concept - the new rules reflect an increased risk of losses due to these types of deployments.
+* Similarly, "Falling Back" now means something entirely different, so the rules for the Morale phase have been entirely rewritten.
+* Template weapons no longer exist, and so that section has been re-written. I've tried to account for flamers, frag cannons, frag grenades, etc. But there's no real way at the moment to distinguish what *used* to be a Blast or Template weapon inherently. I think this covers the majority of use cases however.
+* Initiative no longer exists as stat, which makes Reaction Fire hard to roll as an Initiative test. This has been replaced with a 4+, which is a buff to some and a nerf to others. The note about *Counter-Attack* not being allowed has also been removed, as this is not a thing anymore. If I can find specific examples of rules in the spirit of that one (a bonus coming as-if one had charged) I will include them.
+
+**Main Rulebook**:
+
+* The nature of *CQB* battles necessitates a departure from the "in terrain" paradigm of 8th Edition back to the 7th Edition paradigm of "behind terrain". Editing the terrain rules is probably the largest wholesale change.
+
+# Current Version
+0.2
+
+# Disclaimer
+
+This web site is completely unofficial and in no way endorsed by Games Workshop Limited.
+
+Adeptus Astartes, Blood Angels, Bloodquest, Cadian, Catachan, the Chaos devices, Cityfight, the Chaos logo, Citadel, Citadel Device, Codex, Daemonhunters, Dark Angels, Dark Eldar, ‘Eavy Metal, Eldar, Eldar symbol devices, Eye of Terror, Fire Warrior, Forge World, Games Workshop, Games Workshop logo, Genestealer, Golden Demon, Gorkamorka, Great Unclean One, Inquisitor, the Inquisitor logo, the Inquisitor device, Inquisitor:Conspiracies, Keeper of Secrets, Khorne, Kroot, Lord of Change, Necron, Nurgle, Ork, Ork skull devices, Sisters of Battle, Slaanesh, Space Hulk, Space Marine, Space Marine chapters, Space Marine chapter logos, Tau, the Tau caste designations, Tyranid, Tyrannid, Tzeentch, Ultramarines, Warhammer, Warhammer 40k Device, White Dwarf, the White Dwarf logo, and all associated marks, names, races, race insignia, characters, vehicles, locations, units, illustrations and images from the Warhammer 40,000 universe are either ®, TM and/or © Copyright Games Workshop Ltd 2000-2018, variably registered in the UK and other countries around the world. Used without permission. No challenge to their status intended. All Rights Reserved to their respective owners.
+
+\pagebreak\pagebreak
 
 # Core Rules #
 
@@ -89,5 +151,147 @@ Any alternate deployment mechanism that involves a unit being deployed somewhere
 **Prepared Fire Points**: Corridors, chock points, and natural intersections make natural places where one knows the enemy may come through. Soldiers can be deployed accordingly, anticipating where their enemies will appear. This allows for more effective fire than is conventionally possible with *Overwatch*.
 
 If a unit is charged, and is not currently within 1" of an enemy unit, they may declare a *Prepared Fire* attack in lieu of their *Overwatch* attack. On a roll of a 4+, the unit may fire at their full Ballistic Skill, with *Heavy* type weapons suffering a -1 penalty to hit as if they had moved. If this roll is failed, the unit may still *Overwatch* as normal.
+
+\pagebreak
+\pagebreak
+
+# Additional Optional Rules #
+
+**Victory at Any Price:** There can be no half-measures in *CQB* battles. No quarter asked or given. To reflect this, if for any reason a mission results in a draw, the force when suffered the fewest destroyed units counts as having won. Note that units not yet deployed count as destroyed for the purposes of this rule.
+
+**Fog of War:** *CQB* battles are chaotic things. Vox relays go down. Couriers and runners get lost, or are ambushed and slain. Rumors and garbled messages from panicked defenders can exaggerate the scope of an enemy attack.
+
+If both players wish to do so, instead of deploying units they may deploy numbered counters representing a unit, with a list of which unit corresponds to which counter written down in advance and hidden from their opponent before the game begins. These counters are moved as appropriate - note that a clever opponent may gauge the identiy of units moving particularly swiftly, or using special rules. Once they enter line of sight of an opposing unit, engage in a shooting attack or charge, they are revealed, and the counter is replaced by the unit's models, placed in coherency around where the counter was.
+
+Should this unit destroy it's enemies and escape from line of sight, at the player's discretion they may once more be replaced with the counter.
+
+\pagebreak\pagebreak
+
+# Expansions #
+
+Expansions are special rules that pertain to particular *CQB* environments. For example, while those boarding a void-going starship risk dangerous depressurization, those attacking an Adeptus Mechanicus research station may encounter malfunctioning machinery, or defensive systems that no longer distinguish friend from foe.
+
+While some of these are derived from the original Zone Mortalis source material, the majority of them are fan-made, and it must be reiterated that they are *not* intended to be balanced, and should not be used outside narrative play.
+
+## Void War ##
+
+**Void Exposure:** All attacks that are Strength 4 or higher have resol
+
+
+## Toxic Environments ##
+
+## Mines ##
+
+\pagebreak\pagebreak
+
+Hello World
+
+\pagebreak\pagebreak
+
+# Exemptions #
+
+This document details specific units that are particularly well suited for *CQB* environments despite having the *Vehicle* keyword. For the most part, these would have been smaller *Walker* units in 7th edition. These units should be treated as if they are *Fly*, *Artillery* or *Cavalry* units instead of *Vehicles*.
+
+Note: This list is *very much* under construction, and somewhat subjective.
+
+## Space Marines ##
+* Contemptor Dreadnought
+* Ironclad Dreadnought
+* Dreadnought
+* Venderable Dreadnought
+* Redemptor Dreadnought
+
+## Blood Angels ##
+* As *Space Marines*
+* Furioso Dreadnought
+* Death Company Dreadnought
+* Librarian Dreadnought
+
+## Dark Angels ##
+* As *Space Marines*
+
+## Deathwatch ##
+* As *Space Marines*
+* Deathwatch Venerable Dreadnought
+
+## Grey Knights ##
+* As *Space Marines*
+
+## Space Wolves ##
+* As *Space Marines*
+* Bjorn the Fell-Handed
+* Murderfang
+
+## Astra Militarum ##
+* Armored Sentinel
+* Scout Sentinel
+
+## Adeptus Ministorum ##
+* Penitent Engine
+
+## Adeptus Custodes ##
+* Venerable Contemptor Dreadnought
+
+## Sisters of Silence ##
+*None*
+
+## Adeptus Mechanicus ##
+* Sydonian Dragoons 
+* Ironstrider Ballistarius
+
+## Inquisition ##
+* Inquisitor Karamazov
+
+## Imperial Knights ##
+*None*
+
+## Officio Assassinorum ##
+*None*
+
+## Chaos Space Marines ##
+* Helbrute
+
+## Death Guard ##
+* Foetid Bloat-drone
+* Myphitic Blight-hauler
+
+## Thousand Sons ##
+*As Chaos Space Marines*
+
+## Renegade Knights ##
+*None*
+
+## Chaos Daemons ##
+*None*
+
+## Craftworld Eldar ##
+* War Walker
+
+## Drukhari ##
+*None*
+
+## Harlequins ##
+
+## Ynnari ##
+*As Craftworld, Drukhari and Harlequin Eldar*
+
+## Orks ##
+* Deff Dread
+* Killa Kans
+
+## Necrons ##
+*None*
+
+## T'au Empire ##
+*None*
+
+## Tyranids ##
+*None*
+
+## Genestealer Cults ##
+*As Astra Militarum*
+
+## Forge World Units ##
+Under construction
 
 \pagebreak
