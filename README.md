@@ -28,6 +28,7 @@ The goal behind *CQB* is to build a set of modular rules to support these kind o
 * **Core Rules** : These are as close an adaptation of the original Zone Mortalis rules as possible, with a minimum of creative interpretation. Where this interpretation does happen, some commentary is included for how this was arrived at.
 * **Optional Rules** : These are rules inspired by other products, sources, etc. that can be added to enhance the feel of the game.
 * **Expansions** : There are larger sets of optional rules expressly designed to add a particular type of "flavor" to the game - for example, rules for boarding actions, rules for research stations, etc.
+* **Missions and Stratagems** : As the name suggests, this is a collection of missions and stratagems suitable for use in *CQB* games.
 
 In addition, there is an important note on the design philosophy of *CQB*: **These rules are not balanced**. They are intended for a particular form of narrative game, and as such may favor particular units, armies or army builds.
 
@@ -37,7 +38,7 @@ This is a collection of notable deviations from either the original *Zone Mortal
 **Zone Mortalis**: 
 
 * Several rules, such as Difficult Terrain and the rules for wrecked vehicles have been removed as they no longer exist in the paradigm of 8th edition.
-* Removed most mentions of Walkers, as they don't exist as a discrete category anymore - this makes them *less* useful in *CQB*, which is a problem.
+* Removed most mentions of Walkers, as they don't exist as a discrete category anymore - this makes them *less* useful in *CQB*, which is a problem. The "Exemptions" document attempts to ammend this by making a sub-list of *CQB*-optimized *Vehicles* that suffer lesser penalties. Note that this list is particularly subjective.
 * Deepstrike Mishap no longer exists as a concept - the new rules reflect an increased risk of losses due to these types of deployments.
 * Similarly, "Falling Back" now means something entirely different, so the rules for the Morale phase have been entirely rewritten.
 * Template weapons no longer exist, and so that section has been re-written. I've tried to account for flamers, frag cannons, frag grenades, etc. But there's no real way at the moment to distinguish what *used* to be a Blast or Template weapon inherently. I think this covers the majority of use cases however.
@@ -48,7 +49,7 @@ This is a collection of notable deviations from either the original *Zone Mortal
 * The nature of *CQB* battles necessitates a departure from the "in terrain" paradigm of 8th Edition back to the 7th Edition paradigm of "behind terrain". Editing the terrain rules is probably the largest wholesale change.
 
 # Current Version
-0.1
+0.2
 
 # Disclaimer
 

@@ -4,9 +4,7 @@
 
 *CQB* battles are meant to be fought in close, tight confines, far different from the sweeping confrontations of the average 40K battlefield. This necessitates extremely dense terrain setups, and because mobility enhancing effects like transports and alternative deployment types are less available, units often move considerably slower.
 
-As such, the advisable board size is 2'x2' for a 500 point game and 4'x4' for a 1000 point game. Larger tables, and larger point sizes, should be considered extremely large games of *CQB* and should be attempted once both players are familiar with smaller formats, or as part of team-based scenarios.
-
-*TODO: Add power level equivs.*
+As such, the advisable board size is 2'x2' for a 25 Power Level (500 point) game and 4'x4' for a 50 Power Level (1000 point) game. Larger tables, and larger point sizes, should be considered extremely large games of *CQB* and should be attempted once both players are familiar with smaller formats, or as part of team-based scenarios.
 
 It is advisable to play *CQB* games using the 'Narrative' army construction rules available in the main Warhammer 40K rulebook.
 
@@ -26,7 +24,7 @@ Conventionally, *CQB* battles have a designated **Defender** (most often the own
 * Flyer: 0-2
 * Command Benefit: None
 
-*TODO: Add figure*
+!["Forlorn Hope"](https://raw.githubusercontent.com/variancehammer/CQB/master/images/attack_forceorg.png)
 
 **Defender** : The Defender should use the *Patrol* detachment, described in the main Warhammer 40K rulebook.
 
@@ -43,7 +41,7 @@ In addition to these detachments, there are additional restrictions for *CQB* fo
 * No unit requiring more than a 60mm round base may be chosen
 
 ## Warlords ##
-Warlords for each force should be selected as normal as detailed in the main Warhammer 40K rulebook. However, Warlord Traits and Artifacts should only be used in games larger than 500 points (XX Power Levels).
+Warlords for each force should be selected as normal as detailed in the main Warhammer 40K rulebook. However, Warlord Traits and Artifacts should only be used in games larger than 25 Power Levels (500 Points).
 
 ## Terrain ##
 
@@ -74,7 +72,6 @@ Low ceilings, exposed girders and pipes, etc. mean firing weapons in high arcs i
 * All other units with the *Vehicle* keyword must roll a d6 when moving within *CQB* areas in their entirety. On a roll of 6, the unit takes a Mortal Wound, regardless of any special rules they have regarding movement.
 * The previous rule does not apply to units with the *Vehicle* keyword that are optimized for *CQB* environments. Treat these instead as if they used the rules for units with *Fly*, *Artillery* or *Cavalry*. These units were formerly known as "Walkers" and include Space Marine Dreadnoughts, Eldar War Walkers, Astra Militarum Sentinels, etc. A full list is available in the *Exemptions* document.
 
-*TODO: Make the Exemptions document*
 
 ## Other Special Rules ##
 **Reserves and Alternate Deployments**: Units arriving from reserve via standard deployment can only enter via the entry and exit points specified before the game begins. Units with rules that allow them to be repositioned after deployment, such as the Astra Militarum Scout Sentinel's "Scout Vehicle" rule or which alter the rules for where a model may be placed *during deployment* such as the Space Marine Scout's "Concealed Positions" work as normal.
@@ -87,5 +84,8 @@ Any alternate deployment mechanism that involves a unit being deployed somewhere
 
 **Communications Failures**: *CQB* environments are difficult ones to maintain coherent command and control structures in. Units are often extremely limited in what they can see, their communications may be jammed, and they are often forced to rely on the leadership of whatever officer they can find - often a junior one. A unit that is within 1" of a friendly unit that has lost one or more models due to a failed Morale roll itself loses 1 unit, to reflect growing local panic and incomplete information.
 
+**Prepared Fire Points**: Corridors, chock points, and natural intersections make natural places where one knows the enemy may come through. Soldiers can be deployed accordingly, anticipating where their enemies will appear. This allows for more effective fire than is conventionally possible with *Overwatch*.
+
+If a unit is charged, and is not currently within 1" of an enemy unit, they may declare a *Prepared Fire* attack in lieu of their *Overwatch* attack. On a roll of a 4+, the unit may fire at their full Ballistic Skill, with *Heavy* type weapons suffering a -1 penalty to hit as if they had moved. If this roll is failed, the unit may still *Overwatch* as normal.
 
 
