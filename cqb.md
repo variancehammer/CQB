@@ -46,6 +46,7 @@ This is a collection of notable deviations from either the original *Zone Mortal
 * Similarly, "Falling Back" now means something entirely different, so the rules for the Morale phase have been entirely rewritten.
 * Template weapons no longer exist, and so that section has been re-written. I've tried to account for flamers, frag cannons, frag grenades, etc. But there's no real way at the moment to distinguish what *used* to be a Blast or Template weapon inherently. I think this covers the majority of use cases however.
 * Initiative no longer exists as stat, which makes Reaction Fire hard to roll as an Initiative test. This has been replaced with a 4+, which is a buff to some and a nerf to others. The note about *Counter-Attack* not being allowed has also been removed, as this is not a thing anymore. If I can find specific examples of rules in the spirit of that one (a bonus coming as-if one had charged) I will include them.
+* Rending as a USR is gone as well. This has been replicated as closely as possible for *Cold Void and Poisoned Air*. Pinning is similarly no longer a concept, and has been dropped.
 
 **Main Rulebook**:
 
@@ -175,12 +176,27 @@ While some of these are derived from the original Zone Mortalis source material,
 
 ## Void War ##
 
-**Void Exposure:** All attacks that are Strength 4 or higher have resol
-
+*Void Exposure:* Each time a weapon with Strength 4 or greater makes a wound roll of 6+, that hit is resolved at AP -3, unless its AP value is better. All weapon or attacks which have a similar rule now trigger on a roll of 5+.
 
 ## Toxic Environments ##
 
+*Poisoned Air:* Each time a weapon with Strength 4 or greater makes a wound roll of 6+, that hit is resolved at AP -3, unless its AP value is better. All weapon or attacks which have a similar rule now trigger on a roll of 5+.
+
 ## Mines ##
+
+*Buried Alive*: Mine shafts and other underground environments are highly unstable, especially with the deployment of powerful weapons, seismic breaching charges, etc. If a mission uses this table, on each turn after the first each player should roll a D6 at the beginning of the turn, and add the results of both rolls together. Compare that result to the following chart. If any ranged weapons of Strength 10 or higher has been used in the preceding turn add +1 to the total.
+
+| Roll | Result |
+|------|--------|
+| 2-5    | *Stable:* No Effect.   | 
+| 6-7    | *Stray Shot:* Both players roll off. The winner may choose a single enemy unit. On a 3+, that unit takes D6 hits at Strength 5, AP -2.    |
+| 8-9    | *Dust and Debris:* Clouds of dust, debris, and fine particulates fill the air. For this turn only, all models suffer a -1 To Hit penalty for all Shooting attacks.    |
+| 10   | *Tremor:* The ground shakes and shifts beneath the clashing armies. All units suffer -2 to their Movement characteristic, to a minimum of 1.    |
+| 11    | *Cave-in:* Both players roll off. The winner of that roll may choose D3 enemy units. On a 3+, each unit takes D6 hits at Strength 5, AP -2.    |
+| 12+    | *Earthquake!:* Every model on the table must roll a D6. Every model that rolls above their Strength characteristic is removed as a casualty. *Characters* may re-roll this test if tailed. This may only happen once a game - if a 12+ is rolled again, treat this as having no effect.   |
+
+
+
 
 \pagebreak\pagebreak
 

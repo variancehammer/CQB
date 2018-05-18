@@ -1,6 +1,6 @@
 #!/bin/bash
 
-# Creates a PDF of all CQB Markdown documents and stores them in a dedicated folder
+# Creates a PDF of all CQB Markdown documents
 # Run after every major update
 # Requires pandoc and a LaTeX installation to work properly
 
