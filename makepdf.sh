@@ -6,6 +6,6 @@
 
 cat README.md core_rules.md optional_rules.md expansions.md missions_strats.md exemptions.md > cqb.md
 
-pandoc cqb.md -s -o ./pdfs/CQB.pdf
+pandoc cqb.md -s -o CQB.pdf
 
 printf "+++ PDF Compilation Complete+++ \n"
