@@ -10,6 +10,8 @@ While some of these are derived from the original Zone Mortalis source material,
 
 *Void Exposure:* Each time a weapon with Strength 4 or greater makes a wound roll of 6+, that hit is resolved at AP -3, unless its AP value is better. All weapon or attacks which have a similar rule now trigger on a roll of 5+.
 
+*Note:* While this rule is actually marginally *less* effective than the previous 7th Edition incarnation of Rending, the overall lethality increase in 8th Edition means this rule can make things *especially* bloody. I advise only using this rule in *parts* of a CQB battle or special areas - a leaking reactor core, a chamber where a starship's hull has already ruptured, etc.
+
 ## Toxic Environments ##
 
 *Poisoned Air:* Each time a weapon with Strength 4 or greater makes a wound roll of 6+, that hit is resolved at AP -3, unless its AP value is better. All weapon or attacks which have a similar rule now trigger on a roll of 5+.

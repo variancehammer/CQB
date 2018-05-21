@@ -48,6 +48,7 @@ This is a collection of notable deviations from either the original *Zone Mortal
 * Initiative no longer exists as stat, which makes Reaction Fire hard to roll as an Initiative test. This has been replaced with a 4+, which is a buff to some and a nerf to others. The note about *Counter-Attack* not being allowed has also been removed, as this is not a thing anymore. If I can find specific examples of rules in the spirit of that one (a bonus coming as-if one had charged) I will include them.
 * Rending as a USR is gone as well. This has been replicated as closely as possible for *Cold Void and Poisoned Air*. Pinning is similarly no longer a concept, and has been dropped.
 * Some modifications have been made to the Catastrophic Damage table to reflect 8th Edition. Mostly, attempting to duplicate the effects, even if the rules are now fairly different. For example, replacing scatter with a flat chance to miss.
+* Translating SPs to CPs is not an exact science. The assumption is that it works largely 1:1, based on 2 SPs and 2 CPs being "most but not quite all" of their respective available resources.s
 
 **Main Rulebook**:
 
