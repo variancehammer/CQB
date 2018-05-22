@@ -38,7 +38,7 @@ In addition to these detachments, there are additional restrictions for *CQB* fo
 
 * No unit may be taken as a Dedicated Transport
 * No unit may have a starting size greater than 15 models
-* Units without the *Vehicle* keyword cannot be more than 4" wide
+* Units with the *Vehicle* keyword cannot be more than 4" wide
 * Units with both the *Flyer* battlefield role may not be taken, unless they have Hover Mode. If taken as such, they may not leave Hover Mode.
 * No unit requiring more than a 60mm round base may be chosen
 
@@ -55,7 +55,7 @@ Interacting with terrain is, by necessity, a larger component of *CQB* games tha
 * **Unlocked**: A barrier may be opened or closed by the first unit that comes within 1" of the barrier in each turn. This unit may move through the door freely (and optionally close it behind them). A barrier may only be moved through this way once per turn - any additional units wishing to move through an *Unlocked* barrier that has been closed must destroy it.
 * **Restricted Access**: A restricted access barrier is treated as *Unlocked* by one side (typically, but not always, the *Defender*), and *Locked* by the other.
 
-**Destroying Doors**: Barriers may be destroyed - by forcing them open, puncturing holes big enough to move through, disabling their locking mechanisms or force field emitters, etc. They have however been *designed* to withstand some degree of abuse. When attempting to destroy a barrier, unless otherwise noted in the scenario rules, treat them as having Toughness 4 and 2 Wounds and a 2+ armor save. Doors also have a 2+ save against Mortal Wounds.
+**Destroying Doors**: Barriers may be destroyed - by forcing them open, puncturing holes big enough to move through, disabling their locking mechanisms or force field emitters, etc. They have however been *designed* to withstand some degree of abuse. When attempting to destroy a barrier, unless otherwise noted in the scenario rules, treat them as having Toughness 4 and 2 Wounds and a 2+ armor save. Doors also have a 2+ save against Mortal Wounds caused by Psychic Powers.
 
 *Assaulting Doors*: Doors may be attacked, damaged, and ultimately destroyed like any other unit. However, unlike most units, they cannot fight back. As such, units may deploy *within* 9" of a door, and a unit that elects to Fall Back after unsuccessfully attempting to destroy a door may still Advance, charge or shoot as normal.
 
