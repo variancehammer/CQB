@@ -11,7 +11,6 @@ Note: This list is *very much* under construction, and somewhat subjective.
 * Ironclad Dreadnought
 * Dreadnought
 * Venderable Dreadnought
-* Redemptor Dreadnought
 
 ## Blood Angels ##
 * As *Space Marines*
