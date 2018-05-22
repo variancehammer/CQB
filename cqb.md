@@ -47,6 +47,8 @@ This is a collection of notable deviations from either the original *Zone Mortal
 * Template weapons no longer exist, and so that section has been re-written. I've tried to account for flamers, frag cannons, frag grenades, etc. But there's no real way at the moment to distinguish what *used* to be a Blast or Template weapon inherently. I think this covers the majority of use cases however.
 * Initiative no longer exists as stat, which makes Reaction Fire hard to roll as an Initiative test. This has been replaced with a 4+, which is a buff to some and a nerf to others. The note about *Counter-Attack* not being allowed has also been removed, as this is not a thing anymore. If I can find specific examples of rules in the spirit of that one (a bonus coming as-if one had charged) I will include them.
 * Rending as a USR is gone as well. This has been replicated as closely as possible for *Cold Void and Poisoned Air*. Pinning is similarly no longer a concept, and has been dropped.
+* Some modifications have been made to the Catastrophic Damage table to reflect 8th Edition. Mostly, attempting to duplicate the effects, even if the rules are now fairly different. For example, replacing scatter with a flat chance to miss.
+* Translating SPs to CPs is not an exact science. The assumption is that it works largely 1:1, based on 2 SPs and 2 CPs being "most but not quite all" of their respective available resources.s
 
 **Main Rulebook**:
 
@@ -118,7 +120,9 @@ Interacting with terrain is, by necessity, a larger component of *CQB* games tha
 * **Unlocked**: A barrier may be opened or closed by the first unit that comes within 1" of the barrier in each turn. This unit may move through the door freely (and optionally close it behind them). A barrier may only be moved through this way once per turn - any additional units wishing to move through an *Unlocked* barrier that has been closed must destroy it.
 * **Restricted Access**: A restricted access barrier is treated as *Unlocked* by one side (typically, but not always, the *Defender*), and *Locked* by the other.
 
-**Destroying Doors**: Barriers may be destroyed - by forcing them open, puncturing holes big enough to move through, disabling their locking mechanisms or force field emitters, etc. They have however been *designed* to withstand some degree of abuse. When attempting to destroy a barrier, unless otherwise noted in the scenario rules, treat them as having Toughness 4 and 2 Wounds and a 2+ armor save.
+**Destroying Doors**: Barriers may be destroyed - by forcing them open, puncturing holes big enough to move through, disabling their locking mechanisms or force field emitters, etc. They have however been *designed* to withstand some degree of abuse. When attempting to destroy a barrier, unless otherwise noted in the scenario rules, treat them as having Toughness 4 and 2 Wounds and a 2+ armor save. Doors also have a 2+ save against Mortal Wounds.
+
+*Assaulting Doors*: Doors may be attacked, damaged, and ultimately destroyed like any other unit. However, unlike most units, they cannot fight back. As such, units may deploy *within* 9" of a door, and a unit that elects to Fall Back after unsuccessfully attempting to destroy a door may still Advance, charge or shoot as normal.
 
 *Note*: This is calibrated to give a meltagun firing at half range the same chance of destroying the door as in 7th edition (~ 83%). It does seem a little low at the moment, and can very easily be stripped by volume of fire in a way that you couldn't do in 7th Edition. The armor may *help* with that, but there's no way to get all the way back to "Small arms can't hurt this, bring up the demo charges" given the 8th Edition ruleset. More work may be needed here - possibly averaging the results of several iconic "bulkhead breaking weapons"
 
@@ -178,6 +182,8 @@ While some of these are derived from the original Zone Mortalis source material,
 
 *Void Exposure:* Each time a weapon with Strength 4 or greater makes a wound roll of 6+, that hit is resolved at AP -3, unless its AP value is better. All weapon or attacks which have a similar rule now trigger on a roll of 5+.
 
+*Note:* While this rule is actually marginally *less* effective than the previous 7th Edition incarnation of Rending, the overall lethality increase in 8th Edition means this rule can make things *especially* bloody. I advise only using this rule in *parts* of a CQB battle or special areas - a leaking reactor core, a chamber where a starship's hull has already ruptured, etc.
+
 ## Toxic Environments ##
 
 *Poisoned Air:* Each time a weapon with Strength 4 or greater makes a wound roll of 6+, that hit is resolved at AP -3, unless its AP value is better. All weapon or attacks which have a similar rule now trigger on a roll of 5+.
@@ -195,14 +201,69 @@ While some of these are derived from the original Zone Mortalis source material,
 | 11    | *Cave-in:* Both players roll off. The winner of that roll may choose D3 enemy units. On a 3+, each unit takes D6 hits at Strength 5, AP -2.    |
 | 12+    | *Earthquake!:* Every model on the table must roll a D6. Every model that rolls above their Strength characteristic is removed as a casualty. *Characters* may re-roll this test if tailed. This may only happen once a game - if a 12+ is rolled again, treat this as having no effect.   |
 
-
-
-
 \pagebreak\pagebreak
 
-Hello World
+# Missions and Stratagems #
 
-\pagebreak\pagebreak
+Expansions are special rules that pertain to particular *CQB* environments. For example, while those boarding a void-going starship risk dangerous depressurization, those attacking an Adeptus Mechanicus research station may encounter malfunctioning machinery, or defensive systems that no longer distinguish friend from foe.
+
+While some of these are derived from the original Zone Mortalis source material, the majority of them are fan-made, and it must be reiterated that they are *not* intended to be balanced, and should not be used outside narrative play.
+
+## Missions ##
+
+*Void Exposure:* Each time a weapon with Strength 4 or greater makes a wound roll of 6+, that hit is resolved at AP -3, unless its AP value is better. All weapon or attacks which have a similar rule now trigger on a roll of 5+.
+
+*Note:* While this rule is actually marginally *less* effective than the previous 7th Edition incarnation of Rending, the overall lethality increase in 8th Edition means this rule can make things *especially* bloody. I advise only using this rule in *parts* of a CQB battle or special areas - a leaking reactor core, a chamber where a starship's hull has already ruptured, etc.
+
+## Stratagems ##
+
+The small forces and chaotic nature of battles in the bowels of starships and the depths of mines limits the ability of command units to adjust the flow of battle. While the number of command points available to *CQB* forces is deliberately limited, there are never the less some general-purpose Stratagems available to either the Attacker or Defender. They may also use Stratagems generally available or those specific to their faction.
+
+**General Stratagems**:
+
+
+**Attacker's Stratagems**:
+
+* *Breaching Charges* (1CP): Units not otherwise equipped for the breaching of barriers and bulwarks may be issued special equipment when pressed into service. Use this Stratagem during a Shooting or Assault phase when a unit attempts to destroy a door. A model in this unit may forego its attack and instead place a breaching charge. Roll a D6, and on a 2+ the targeted door is destroyed.
+
+* *Interdiction Assault* (2 CP): Blasting charges, Webway portals, or short-range teleportarium pads allow the attackers entry to the battlefield from unexpected vectors. During the Attacker's first turn, they may place a small marker anywhere on the board more than 9" away from enemy units and 1" from any walls, barriers, etc. This marker represents a breaching point, and up to one infantry unit per turn arriving from reserves may use this entry point in lieu of their normal deployment rules.
+
+* *Sustained Assault* (3 CP): The attacker commits a seemingly endless supply of forces to the battle, accepting horrific casualties to achieve their ends. Before the battle begins, the Attacker should choose (and secretly note down) a single Troops choice from their force. If this unit is destroyed, the Attacker may use this stratagem to bring an identical unit in from reserves. This may be done only once.
+
+
+
+**Defender's Stratagems**:
+
+* *Strongpoint* (3 CP): After deployment zones have been determined but before unit placement begins, the Defender may nominate one enclosed, or semi-enclosed space (such as a single room) as a hardened strongpoint. If available, additional terrain should be placed to represent this. Additionally, a small figure or marker should be placed to represent the strongpoint's power generator.
+
+Treat this generator as having Toughness 4, 2 Wounds and a 2+ armor save. Doors also have a 2+ save against Mortal Wounds.
+
+Defending units within the strongpoint add two to their armor save, and while the power generator is intact, may also re-roll any 1's To Hit when making shooting attacks.
+
+* *Barricades* (1 CP): With time to prepare for a coming attack, the Defenders have had a chance to prepare the battlefield. After deployment zones have been determined but before unit placement begins, the defender may place three 4" wide barriers or barricades. These work as per the Warhammer 40,000 rulebook. Unlike most Stratagems, this one may be used multiple times before the battle begins.
+
+* *Traps* (2 CP): The Defender has been able to seed the environment with traps, anti-personnel mines, deliberately sabotaged environmental control systems, or other techniques to make the environment hostile to foes. The Defender places six markers anywhere on the board after deployment areas have been decided, but before units are placed. This stratagem may be taken more than once (note: because of the cost, this is not likely to be possible without some sort of CP-boosting power).
+
+Any model moving within 1" of these markers during the game has the chance to set off a trap. In the case of units, move the entire unit before checking if the trap goes off. When this happens, roll a D6 and consult the following table:
+
+| Roll | Result |
+|------|--------|
+| 1    | *Trap Disarmed:* No effect, and remove the marker from play.   | 
+| 2-3    | *Inactive:* No effect this turn, but the marker remains where it is. |
+| 4-6    | *Triggered:* The triggering unit takes D6 Strength 4 AP -1 hits. The marker is then removed from play. |
+
+
+
+\pagebreak
+
+
+
+
+
+
+
+
+\pagebreak
 
 # Exemptions #
 
