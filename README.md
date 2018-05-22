@@ -55,7 +55,7 @@ This is a collection of notable deviations from either the original *Zone Mortal
 * The nature of *CQB* battles necessitates a departure from the "in terrain" paradigm of 8th Edition back to the 7th Edition paradigm of "behind terrain". Editing the terrain rules is probably the largest wholesale change.
 
 # Current Version
-0.2
+1.0
 
 # Disclaimer
 

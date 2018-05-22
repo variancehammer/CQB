@@ -6,8 +6,6 @@ Expansions are special rules that pertain to particular *CQB* environments. For 
 
 While some of these are derived from the original Zone Mortalis source material, the majority of them are fan-made, and it must be reiterated that they are *not* intended to be balanced, and should not be used outside narrative play.
 
-\pagebreak
-
 ## Missions ##
 
 **Assault**
@@ -76,7 +74,7 @@ In addition to these primary objects, victory points may be earned for the follo
 
 !["Encounter Mission Map"](https://raw.githubusercontent.com/variancehammer/CQB/master/images/map2.png)
 
-/pagebreak
+\pagebreak
 
 ## Stratagems ##
 
