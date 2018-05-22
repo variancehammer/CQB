@@ -6,11 +6,77 @@ Expansions are special rules that pertain to particular *CQB* environments. For 
 
 While some of these are derived from the original Zone Mortalis source material, the majority of them are fan-made, and it must be reiterated that they are *not* intended to be balanced, and should not be used outside narrative play.
 
+\pagebreak
+
 ## Missions ##
 
-*Void Exposure:* Each time a weapon with Strength 4 or greater makes a wound roll of 6+, that hit is resolved at AP -3, unless its AP value is better. All weapon or attacks which have a similar rule now trigger on a roll of 5+.
+**Assault**
 
-*Note:* While this rule is actually marginally *less* effective than the previous 7th Edition incarnation of Rending, the overall lethality increase in 8th Edition means this rule can make things *especially* bloody. I advise only using this rule in *parts* of a CQB battle or special areas - a leaking reactor core, a chamber where a starship's hull has already ruptured, etc.
+This mission represents a classic *CQB* battle, with an attacker having launched an assault on a vital area. One player takes up the role of the Attacker, and the other the roll of the Defender.
+
+*Table Setup*: A *CQB* environment is a confused tangle of access tunnels, corridors, chambers and rooms, and should be set up appropriate. Terrain should be extremely dense, form natural channels, and have clear and unambiguous doorways. The board should be laid out in a mutually agreeable fashion by both players, or set-up by alternating between placing terrain features. The play area should be set up so that each board edge has at least one clear entry and exit point *per player*.
+
+*Battle-forged Armies*: Any benefit to Battle-forged armies that benefit Troops units (such as the Space Marine's *Defenders of Humanity* rule) also benefit Elite units.
+
+*Deployment*: Before the battle begins, both players should divide their forces into two roughly equal groups (as measured by both number of units and Power Levels). They must decide which of these two forces is their spearhead, and which is their reserve. This division represents an attacking force converging on a critical location, and a defending force rallying to its defense.
+
+The table is then divided into four quarters, and the players roll off to choose a deployment zone. The winner picks which is to be their deployment zone. The opposing player than rolls a D6 - on a 4+ then may choose any of the three remaining zones - otherwise they deploy in the opposite zone to their opponent. Players should alternate placing their models their deployment zone, not within 6" of the center of the table, starting with the player who did not pick the deployment zone.
+
+*First Turn*: “The players roll off, and the player who finished setting up their army first adds 1 to their result. The winner can choose to take the first or second turn. If they choose to take the first turn, their opponent can attempt to seize the initiative by rolling a D6 - on a result of 6, they may take the first turn instead.
+
+*Victory Conditions*: At the end of the game, the player with the most victory points is the winner. If both players have the same, the victor is the player who killed the most enemy units.
+
+Before the start of the game, the players should agree upon - or roll a D6 to decide - the primary objective of the game, consulting the table below:
+
+| Roll | Result |
+|------|--------|
+| 1-2    | *Search and Destroy*: The objective is to destroy the enemy's force, and win through attrition and slaughter. Each player scores 1 victory point for each enemy unit that is destroyed   | 
+| 3-4    | *Force the Breach!*: The Defenders are trying to hold a vital strategic area - environmental controls, the reactor room, or the bridge of a starship, while the attackers are trying to wrest it from them. The Defender places three objectives - one in their deployment zone and one each in the two unused deployment zones. They may not be placed within 6" of the table edge or the 6" zone in the center of the table. These defenses are worth 2 victory points each. |
+| 5-6    | *Sabotage*: The Attacker's goal is to destroy a number of vital systems, disrupting the larger scope of the battle. The Defender places D3+2 objective markers on the table. These markers represent control panels, computer console, life support systems, or other critical points. They may be placed anywhere on the table other than within 6" of a table edge or 12" of each other. The attacker must attempt to destroy these objectives. Treat them as having Toughness 4, 2 Wounds and a 2+ armor save. Because the Attackers cannot be assured of their complete destruction from a distance, they also have a 4+ invulnerable save against shooting attacks. These may not be chosen as the targets for any environmental effects such as the *Buried Alive* special rules, etc. At the end of the game, each objective the attackers have destroyed is worth 1 victory point to the attacker, while the defenders gain 1 victory point for each remaining objective. |
+
+In addition to these primary objects, victory points may be earned for the following achievements:
+
+* *Slay the Warlord*: If the enemy Warlord has been slain during the battle, you score 1 victory point.
+
+* *First Blood*: The first unit, of any kind, to be destroyed is worth an additional victory point to the opposing player at the end of the game. If two or more units from opposing forces are destroyed simultaneously, each player gets a victory point.
+
+!["Attack Mission Map"](https://raw.githubusercontent.com/variancehammer/CQB/master/images/map1.png)
+
+\pagebreak
+
+**Encounter**
+
+This mission represents two hostile forces advancing through unfamiliar and unoccupied territory. Both forces should use the *Combatant* role, and build their forces from one or more Patrol detachments.
+
+*Table Setup*: A *CQB* environment is a confused tangle of access tunnels, corridors, chambers and rooms, and should be set up appropriate. Terrain should be extremely dense, form natural channels, and have clear and unambiguous doorways. The board should be laid out in a mutually agreeable fashion by both players, or set-up by alternating between placing terrain features. The play area should be set up so that each board edge has at least one clear entry and exit point *per player*.
+
+*Battle-forged Armies*: Any benefit to Battle-forged armies that benefit Troops units (such as the Space Marine's *Defenders of Humanity* rule) also benefit Elite units.
+
+*Deployment*: Before the battle begins, both players should divide their forces into two roughly equal groups (as measured by both number of units and Power Levels). They must decide which of these two forces is their spearhead, and which is their reserve. This division represents a smaller force scouting ahead in unfamiliar ground before summoning reinforcements when contact is made with the enemy.
+
+The players should then roll off, with the winner choosing which of the table edges is to be their deployment zone. Their opponent uses the opposite table edge as their deployment zone. Players should alternate placing their models within 6" of their table edge, starting with the player who did not pick the deployment zone.
+
+*First Turn*: “The players roll off, and the player who finished setting up their army first adds 1 to their result. The winner can choose to take the first or second turn. If they choose to take the first turn, their opponent can attempt to seize the initiative by rolling a D6 - on a result of 6, they may take the first turn instead.
+
+*Victory Conditions*: At the end of the game, the player with the most victory points is the winner. If both players have the same, the victor is the player who killed the most enemy units.
+
+Before the start of the game, the players should agree upon - or roll a D6 to decide - the primary objective of the game, consulting the table below:
+
+| Roll | Result |
+|------|--------|
+| 1-2    | *Search and Destroy*: The objective is to destroy the enemy's force, and win through attrition and slaughter. Each player scores 1 victory point for each enemy unit that is destroyed   | 
+| 3-4    | *Capture Ground*: The forces are attempting to control large portions of the battlefield, in order to search them more carefully for intelligence items, secure access points for reinforcements, or other more esoteric objectives. Five objective tokens are placed, with one as close to the center of the board as possible, and the players alternating placement of the other four, beginning with the player who did not determine deployment, such that they are at least 6" away from each other and any table edge. Controlling the center objective is worth 3 victory points, and the control of other objectives are each worth 1. When playing on a larger table, such as a 6' x 4' table, increase the number of objectives to 7. |
+| 5-6    | *Overrun*: Having made contact with the enemy, the opposing forces now seek to fight their way into enemy-held territory, seizing on their momentary advantage to make inroads into otherwise heavily defended areas. For each unit within the enemy deployment zone at the end of the game, the owning player gains 3 victory points. For every destroyed enemy unit, the player gains 1 victory point.    |
+
+In addition to these primary objects, victory points may be earned for the following achievements:
+
+* *Slay the Warlord*: If the enemy Warlord has been slain during the battle, you score 1 victory point.
+
+* *First Blood*: The first unit, of any kind, to be destroyed is worth an additional victory point to the opposing player at the end of the game. If two or more units from opposing forces are destroyed simultaneously, each player gets a victory point.
+
+!["Encounter Mission Map"](https://raw.githubusercontent.com/variancehammer/CQB/master/images/map2.png)
+
+/pagebreak
 
 ## Stratagems ##
 
